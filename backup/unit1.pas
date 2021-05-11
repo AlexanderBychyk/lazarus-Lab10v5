@@ -300,7 +300,6 @@ begin
 
       visibleHandler(StringGrid1,Label1,LabeledEdit1,LabeledEdit2,
                      LabeledEdit3,LabeledEdit4,Button1,Button4,Button5,true);
-      combobox1.Enabled := true;
 
       isSaved:=true;
       closeFile(F);
