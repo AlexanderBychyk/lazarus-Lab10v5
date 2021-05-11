@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\Development\FreePascal\fpc\bin\x86_64-win64\fpc.exe" Date="1348574024"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -FiD:\УНИВЕР\Delphi\lazarus-Lab10v5\lib\x86_64-win64 -FuC:\Development\FreePascal\lazarus\lcl\units\x86_64-win64\win32 -FuC:\Development\FreePascal\lazarus\lcl\units\x86_64-win64 -FuC:\Development\FreePascal\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Development\FreePascal\lazarus\packager\units\x86_64-win64 -FuD:\УНИВЕР\Delphi\lazarus-Lab10v5\ -FUD:\УНИВЕР\Delphi\lazarus-Lab10v5\lib\x86_64-win64\ -FED:\УНИВЕР\Delphi\lazarus-Lab10v5\ -oD:\УНИВЕР\Delphi\lazarus-Lab10v5\project10.exe -dLCL -dLCLwin32 project10.lpr"/>
+</CONFIG>
